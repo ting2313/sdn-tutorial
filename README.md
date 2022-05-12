@@ -24,6 +24,12 @@ pip3 install ryu
 pip3 install eventlet==0.30.2
 ```
 
+### 其他工具
+我們將使用cURL作為REST API中的客戶端工具。
+```
+apt-get install curl
+```
+
 ## 使用 images
 這邊是我過去包好的image，可以自行取用。但還是推薦在虛擬機中自行安裝，這樣在操作xterm上會比較方便。
 
