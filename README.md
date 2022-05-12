@@ -30,6 +30,10 @@ pip3 install eventlet==0.30.2
 apt-get install curl
 ```
 
+如果只能使用一個終端機介面，請加裝tmux。
+```
+apt install tmux
+```
 ## 使用 images
 這邊是我過去包好的image，可以自行取用。但還是推薦在虛擬機中自行安裝，這樣在操作xterm上會比較方便。
 
